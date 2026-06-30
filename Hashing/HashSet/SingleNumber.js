@@ -1,4 +1,4 @@
-let nums = [2,2,1,3,3];
+let nums = [2,2,1,1,3];
 
 // HASHMAP
 let map = new Map();
