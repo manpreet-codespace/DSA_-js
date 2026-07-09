@@ -30,3 +30,4 @@ console.log(pivot);
 
 
 
+// Find Middle Index is same as to find the pivot index 
